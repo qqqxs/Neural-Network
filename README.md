@@ -1,1 +1,1 @@
-Some demos I did while learning Neural Network
+Some projects I did while learning Neural Network
